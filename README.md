@@ -1,4 +1,4 @@
 swift
 =====
 
-An open source blogging platform
+An open source blogging platform based on jekyll
